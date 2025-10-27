@@ -109,7 +109,7 @@ END;
 
 ## 🙌 Contributors
 
-- **Urja Sahni** – Database design, SQL scripting, testing
+- **Mehak Garg** – Database design, SQL scripting, testing
 
 ---
 
